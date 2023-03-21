@@ -3,4 +3,4 @@
 
 ## TODO
 
-- Rather than pushing outputs to JSON, try to link it straight to DB (LINK)[https://www.npmjs.com/package/mysql]
+- Rather than pushing outputs to JSON, try to link it straight to DB [https://www.npmjs.com/package/mysql]
